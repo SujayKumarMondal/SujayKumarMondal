@@ -3,7 +3,6 @@
 💻 **System Engineer | Backend Developer | Python Enthusiast**  
 
 I’m passionate about building **scalable backend systems**, **secure authentication flows**, and exploring **real-time data streaming** with modern technologies.  
-Currently focusing on mastering **DSA with Python** and expanding into **cloud-native solutions**.  
 
 ---
 
@@ -17,6 +16,21 @@ Currently focusing on mastering **DSA with Python** and expanding into **cloud-n
 
 ---
 
+## 🔥 Career Highlights
+- ✅ Built and deployed **authentication & authorization systems** with Django and FastAPI  
+- ✅ Hands-on experience with **microservices architecture** using gRPC and Kafka  
+- ✅ Designed and optimized **database schemas** for scalable applications  
+- ✅ Integrated **third-party OAuth (Google, GitHub)** for secure SSO solutions  
+
+---
+
+## 🛠️ Currently Working On
+- 🚀 **Django-based Authentication Projects** (JWT, OAuth2, SSO integrations)  
+- 🔐 Enhancing **user security workflows** with modern authentication standards  
+
+---
+
+
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -25,7 +39,7 @@ Currently focusing on mastering **DSA with Python** and expanding into **cloud-n
 ![gRPC](https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=google&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ---
