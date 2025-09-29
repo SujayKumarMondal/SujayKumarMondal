@@ -12,7 +12,7 @@ I’m passionate about building **scalable backend systems**, **secure authentic
 - ⚡ **Experienced in:**  
   - **Python, FastAPI, Django** (Backend & APIs)  
   - **MySQL, PostgreSQL** (Databases)  
-  - **Kafka, gRPC** (Streaming & Microservices)  
+  - **Redis, Kafka, gRPC** (Streaming & Microservices)  
 
 ---
 
@@ -20,7 +20,7 @@ I’m passionate about building **scalable backend systems**, **secure authentic
 - ✅ Built and deployed **authentication & authorization systems** with Django and FastAPI  
 - ✅ Hands-on experience with **microservices architecture** using gRPC and Kafka  
 - ✅ Designed and optimized **database schemas** for scalable applications  
-- ✅ Integrated **third-party OAuth (Google, GitHub)** for secure SSO solutions  
+- ✅ Integrated **third-party OAuth (Google, GitHub)** using FastAPI for secure SSO solutions  
 
 ---
 
