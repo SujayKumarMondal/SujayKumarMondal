@@ -13,9 +13,11 @@ I’m passionate about building **scalable backend systems**, **secure authentic
 - 🏢 **System Engineer at Surelia Infosystems Private Limited**  
 - 📆 **2 years of professional experience** in backend development  
 - ⚡ **Experienced in:**  
-  - **Python, FastAPI, Django** (Backend & APIs)  
+  - **Python, FastAPI, Django** (Backend & APIs)
+  - **Next JS, React, HTML, CSS, Javascript
   - **MySQL, PostgreSQL** (Databases)  
   - **Redis, Kafka, gRPC** (Streaming & Microservices)  
+
 
 ---
 
@@ -28,6 +30,7 @@ I’m passionate about building **scalable backend systems**, **secure authentic
 ---
 
 ## 🛠️ Currently Working On
+- 🚀 **Django-React based Chatbot Project
 - 🚀 **Django-based Authentication Projects** (JWT, OAuth2, SSO integrations)  
 - 🔐 Enhancing **user security workflows** with modern authentication standards  
 
@@ -38,6 +41,7 @@ I’m passionate about building **scalable backend systems**, **secure authentic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=google&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
