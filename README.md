@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sujay Kumar Mondal  
 
-💻 **System Engineer | Backend Developer | Python Enthusiast**  
+💻 **System Engineer | Full Stack Developer | Python Enthusiast**  
 
 I’m passionate about building **scalable backend systems**, **secure authentication flows**, and exploring **real-time data streaming** with modern technologies.  
 
@@ -30,8 +30,7 @@ I’m passionate about building **scalable backend systems**, **secure authentic
 ---
 
 ## 🛠️ Currently Working On
-- 🚀 **Django-React based Chatbot Project
-- 🚀 **Django-based Authentication Projects** (JWT, OAuth2, SSO integrations)  
+- 🚀 **FastAPI-Next JS based Chatbot Project
 - 🔐 Enhancing **user security workflows** with modern authentication standards  
 
 ---
