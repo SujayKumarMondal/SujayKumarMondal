@@ -1,59 +1,167 @@
-# 👋 Hi, I'm Sujay Kumar Mondal  
+# 👋 Hi, I'm Sujay Kumar Mondal
 
-💻 **System Engineer | Full Stack Developer | Python Enthusiast**  
+💻 **System Engineer | Python Backend Developer | FastAPI Enthusiast**
 
-I’m passionate about building **scalable backend systems**, **secure authentication flows**, and exploring **real-time data streaming** with modern technologies.  
-
----
-
-## 🚀 Portfolio Link
-- ✅ https://sujaykumarmondal.github.io/portfolio/
-
-## 💼 Work Experience
-- 🏢 **System Engineer at Surelia Infosystems Private Limited**  
-- 📆 **2 years of professional experience** in backend development  
-- ⚡ **Experienced in:**  
-  - **Python, FastAPI, Django** (Backend & APIs)
-  - **Next JS, React, HTML, CSS, Javascript
-  - **MySQL, PostgreSQL** (Databases)  
-  - **Redis, Kafka, gRPC** (Streaming & Microservices)  
-
+I specialize in building **scalable backend systems**, **secure authentication platforms**, **REST APIs**, and **event-driven microservices** using modern Python technologies.
 
 ---
 
-## 🔥 Career Highlights
-- ✅ Built and deployed **authentication & authorization systems** with Django and FastAPI  
-- ✅ Hands-on experience with **microservices architecture** using gRPC and Kafka  
-- ✅ Designed and optimized **database schemas** for scalable applications  
-- ✅ Integrated **third-party OAuth (Google, GitHub)** using FastAPI for secure SSO solutions  
+## 🚀 Portfolio
+
+🌐 Portfolio:
+https://sujaykumarmondal.github.io/portfolio/
+
+📄 Resume:
+- View: https://github.com/SujayKumarMondal/SujayKumarMondal/blob/main/Resume_2026.pdf
+- Download: https://github.com/SujayKumarMondal/SujayKumarMondal/raw/main/Resume_2026.pdf
+
+---
+
+## 💼 Professional Experience
+
+### System Engineer
+**Surelia Infosystems Private Limited**
+📅 Aug 2023 – Present
+
+- 2+ years of professional backend development experience
+- Designing scalable APIs and microservices
+- Building secure authentication and authorization systems
+- Developing event-driven architectures using Kafka and Redis
+- Optimizing PostgreSQL and MySQL databases for production workloads
+
+---
+
+## 🔥 Core Expertise
+
+### Backend Development
+- Python
+- FastAPI
+- Django
+- SQLAlchemy
+- Pydantic
+- REST APIs
+
+### Databases
+- PostgreSQL
+- MySQL
+- Database Design
+- Query Optimization
+- Indexing
+
+### Authentication & Security
+- JWT Authentication
+- OAuth2
+- Google OAuth
+- GitHub OAuth
+- RBAC
+- Session Management
+
+### Messaging & Distributed Systems
+- Apache Kafka
+- Redis
+- Redis Streams
+- gRPC
+- Event-Driven Architecture
+
+### DevOps & Tools
+- Docker
+- Git
+- CI/CD
+- Linux
+- Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Chatbot Platform
+
+**Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy, JWT, Redis
+
+- Multi-user chat system
+- Secure JWT authentication
+- Chat history management
+- AI model integration
+- Async API architecture
+
+---
+
+### 🔐 Authentication & Authorization Platform
+
+**Tech Stack:** FastAPI, OAuth2, JWT, MySQL
+
+- Access & Refresh Tokens
+- RBAC Implementation
+- Password Reset Flow
+- Email Verification
+- Google OAuth
+- GitHub OAuth
+
+---
+
+### 📊 Event-Driven Microservices Platform
+
+**Tech Stack:** FastAPI, Kafka, Redis Streams, gRPC, Docker
+
+- Distributed microservices
+- Event streaming
+- High-throughput processing
+- Inter-service communication
+- Containerized deployment
 
 ---
 
 ## 🛠️ Currently Working On
-- 🚀 **FastAPI-Next JS based Chatbot Project
-- 🔐 Enhancing **user security workflows** with modern authentication standards  
+
+🚀 FastAPI-based AI Chatbot Platform
+
+🔐 Authentication & Authorization Solutions
+
+📡 Event-Driven Backend Systems
 
 ---
-
 
 ## 🚀 Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=google&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+![gRPC](https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=google&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujayKumarMondal&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujayKumarMondal&layout=compact)
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujay-kumar-mondal-a125481b7/)  
-📧 **Email:** hiiiamsujay12@gmail.com  
+## 🔗 Connect With Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/sujay-kumar-mondal-a125481b7/
+
+📧 Email:
+sujay.mondal.10.01.1998@gmail.com
+
+🐙 GitHub:
+https://github.com/SujayKumarMondal
 
 ---
 
-⭐️ *“Code. Debug. Learn. Repeat.”*  
+⭐ *"Building scalable backend systems one API at a time."*
