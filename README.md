@@ -8,11 +8,6 @@ I specialize in building **scalable backend systems**, **secure authentication p
 
 ## 📄 Resume
 
-<p align="center">
-  <a href="https://github.com/SujayKumarMondal/SujayKumarMondal/blob/main/Resume_2026.pdf">
-    <img src="assets/resume-preview.png" alt="Resume Preview" width="700">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/SujayKumarMondal/SujayKumarMondal/blob/main/Resume_2026.pdf">
