@@ -8,14 +8,15 @@ I specialize in building **scalable backend systems**, **secure authentication p
 
 ## 📄 Resume
 
+<p align="center">
+  <a href="https://github.com/SujayKumarMondal/SujayKumarMondal/raw/main/Resume_2026.pdf">
+    <img src="https://raw.githubusercontent.com/SujayKumarMondal/SujayKumarMondal/main/assets/resume-preview.png" alt="Resume Preview" width="750">
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/SujayKumarMondal/SujayKumarMondal/blob/main/Resume_2026.pdf">
-    📖 View Resume
-  </a>
-  &nbsp;|&nbsp;
   <a href="https://github.com/SujayKumarMondal/SujayKumarMondal/raw/main/Resume_2026.pdf">
-    ⬇️ Download Resume
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
   </a>
 </p>
 
@@ -158,11 +159,11 @@ https://sujaykumarmondal.github.io/portfolio/
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SujayKumarMondal&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SujayKumarMondal&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujayKumarMondal&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujayKumarMondal&layout=compact&theme=tokyonight" />
 </p>
 
 ---
