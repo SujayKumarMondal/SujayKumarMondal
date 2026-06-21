@@ -184,4 +184,3 @@ https://sujaykumarmondal.github.io/portfolio/
 
 ---
 
-⭐ **"Building scalable backend systems one API at a time."**
