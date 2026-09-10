@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sujay Kumar Mondal
 
-💻 **System Engineer | Python Backend Developer | FastAPI |**
+### 💻 System Engineer | Python Backend Developer | FastAPI | Backend Engineering
 
 I am a **Python Backend Developer with 3+ years of professional experience** building production-grade backend systems, REST APIs, microservices, real-time applications, and workflow-driven platforms.
 
@@ -17,36 +17,42 @@ I am also actively exploring **AI engineering, LLM-based applications, distribut
 <p align="center">
 
 <a href="https://github.com/SujayKumarMondal/SujayKumarMondal/raw/main/Sujay_Kumar_Mondal_09.pdf">
-    <img src="https://raw.githubusercontent.com/SujayKumarMondal/SujayKumarMondal/main/assets/resume-preview.png" alt="Resume Preview" width="750">
+  <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/SujayKumarMondal/SujayKumarMondal/raw/main/Sujay_Kumar_Mondal_09.pdf">
+  <img src="https://raw.githubusercontent.com/SujayKumarMondal/SujayKumarMondal/main/assets/resume-preview.png" alt="Resume Preview" width="750">
 </a>
 
 </p>
 
 ### 🌐 Portfolio
 
-**[skm10-portfolio.netlify.app](https://skm10-portfolio.netlify.app/)**
+<p align="center">
+
+<a href="https://skm10-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
+
+</p>
 
 ---
 
 # 🚀 About Me
 
-🔭 Currently working on **Python backend systems, AI-powered applications, FastAPI projects, and ChatPaat**
-
-💼 Professional experience in **capital markets, portfolio management, trading operations, and OTC derivatives platforms**
-
-🧩 Experienced in building **REST APIs, microservices, asynchronous services, real-time WebSocket systems, and event-driven architectures**
-
-🗄️ Working with **PostgreSQL, MySQL, SQLAlchemy, Redis, and relational database systems**
-
-🔐 Experienced with **JWT authentication, OAuth2, RBAC, session management, and secure API authorization**
-
-⚡ Interested in **distributed systems, system design, asynchronous programming, Kafka, Redis, gRPC, and microservices**
-
-🤖 Exploring **AI engineering, LLM applications, AI-powered developer tools, and intelligent backend systems**
-
-🤝 Interested in collaborating on **Python, FastAPI, backend engineering, AI, distributed systems, and open-source projects**
-
-⚡ Fun fact: **I enjoy turning backend ideas into real production-ready systems and experimenting with new technologies at 2 AM.**
+* 🔭 Currently working on **Python backend systems, AI-powered applications, FastAPI projects, and ChatPaat**
+* 💼 Professional experience in **capital markets, portfolio management, trading operations, and OTC derivatives platforms**
+* 🧩 Experienced in building **REST APIs, microservices, asynchronous services, real-time WebSocket systems, and event-driven architectures**
+* 🗄️ Working with **PostgreSQL, MySQL, SQLAlchemy, Redis, and relational database systems**
+* 🔐 Experienced with **JWT authentication, OAuth2, RBAC, session management, and secure API authorization**
+* ⚡ Interested in **distributed systems, system design, asynchronous programming, Kafka, Redis, gRPC, and microservices**
+* 🤖 Exploring **AI engineering, LLM applications, AI-powered developer tools, and intelligent backend systems**
+* 🤝 Interested in collaborating on **Python, FastAPI, backend engineering, AI, distributed systems, and open-source projects**
+* ⚡ Fun fact: **I enjoy turning backend ideas into production-ready systems and experimenting with new technologies at 2 AM.**
 
 ---
 
@@ -54,11 +60,13 @@ I am also actively exploring **AI engineering, LLM-based applications, distribut
 
 ## 🏢 System Engineer – Python Backend Developer
 
-**Surelia Infosystems Private Limited**
+### Surelia Infosystems Private Limited
 
 📅 **Aug 2023 – Present**
 
-### 📈 Portfolio Management & Trading Operations Platform
+---
+
+## 📈 Portfolio Management & Trading Operations Platform
 
 **Tech Stack:** `Python` `FastAPI` `WebSockets` `Redis` `Pydantic`
 
@@ -71,7 +79,9 @@ I am also actively exploring **AI engineering, LLM-based applications, distribut
 * Apply **asynchronous and event-driven backend patterns** with a focus on scalability, security, performance, and maintainability.
 * Introduce **AI-assisted error handling and workflow automation** to improve reliability and reduce manual intervention in trade processing.
 
-### 📊 Quantitative Trading & Reference Data Platform
+---
+
+## 📊 Quantitative Trading & Reference Data Platform
 
 **Tech Stack:** `Python` `REST APIs` `gRPC` `SQL` `Relational Databases` `FIX Protocol`
 
@@ -201,7 +211,7 @@ An AI-powered multi-user chatbot platform built around a modern asynchronous bac
 * Modular backend architecture
 * Next.js frontend integration
 
-🌐 **Live:** [chatpaat.netlify.app](https://chatpaat.netlify.app/)
+🌐 **Live:** https://chatpaat.netlify.app/
 
 ---
 
@@ -249,46 +259,57 @@ A distributed backend architecture demonstrating event-driven communication and 
 
 # 🛠️ Technology Stack
 
-### Languages
+## Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
-### Backend
+## Backend
 
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic">
+  <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" alt="gRPC">
 </p>
 
-### Databases & Caching
+## Databases & Caching
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </p>
 
-### Messaging & Distributed Systems
+## Messaging & Distributed Systems
 
 <p>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+  <img src="https://img.shields.io/badge/Redis%20Streams-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Streams">
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" alt="gRPC">
 </p>
 
-### DevOps & Tools
+## Authentication & Security
 
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth2">
+  <img src="https://img.shields.io/badge/RBAC-4A4A4A?style=for-the-badge&logo=security&logoColor=white" alt="RBAC">
+</p>
+
+## DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
 ---
@@ -299,16 +320,21 @@ A distributed backend architecture demonstrating event-driven communication and 
   <img
     src="https://github-readme-stats.vercel.app/api?username=SujayKumarMondal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="180"
+    alt="GitHub Stats"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujayKumarMondal&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujayKumarMondal&layout=compact&theme=tokyonight&hide_border=true"
+ height="180"
+ alt="Top Languages"
+/>
+
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=SujayKumarMondal&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -319,6 +345,7 @@ A distributed backend architecture demonstrating event-driven communication and 
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=SujayKumarMondal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"
+    alt="GitHub Trophies"
   />
 </p>
 
@@ -329,6 +356,7 @@ A distributed backend architecture demonstrating event-driven communication and 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=SujayKumarMondal&theme=tokyo-night&hide_border=true"
+    alt="Contribution Graph"
   />
 </p>
 
@@ -339,6 +367,7 @@ A distributed backend architecture demonstrating event-driven communication and 
 <p align="center">
   <img
     src="https://github-contributor-stats.vercel.app/api?username=SujayKumarMondal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
+    alt="Top Contributed Repositories"
   />
 </p>
 
@@ -349,6 +378,7 @@ A distributed backend architecture demonstrating event-driven communication and 
 <p align="center">
   <img
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Random Developer Quote"
   />
 </p>
 
@@ -385,19 +415,19 @@ AI Developer Tools
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sujay-kumar-mondal-a125481b7/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:sujay.mondal.10.01.1998@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://github.com/SujayKumarMondal">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://skm10-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
 
 </p>
