@@ -30,7 +30,7 @@ I am also actively exploring **AI engineering, LLM-based applications, distribut
 <a href="https://github.com/SujayKumarMondal/SujayKumarMondal/blob/main/Sujay_Kumar_Mondal_09.pdf">
 
   <img
-    src="https://raw.githubusercontent.com/SujayKumarMondal/SujayKumarMondal/main/assets/resume-preview.png"
+    src="https://raw.githubusercontent.com/SujayKumarMondal/SujayKumarMondal/main/assets/Sujay_Kumar_Mondal_09.png"
     alt="Resume Preview"
     width="750"
   >
