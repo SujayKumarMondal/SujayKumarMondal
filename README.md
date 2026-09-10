@@ -17,15 +17,24 @@ I am also actively exploring **AI engineering, LLM-based applications, distribut
 <p align="center">
 
 <a href="https://github.com/SujayKumarMondal/SujayKumarMondal/raw/main/Sujay_Kumar_Mondal_09.pdf">
-  <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
+  <img
+    src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+    alt="Download Resume"
+  >
 </a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/SujayKumarMondal/SujayKumarMondal/raw/main/Sujay_Kumar_Mondal_09.pdf">
-  <img src="https://raw.githubusercontent.com/SujayKumarMondal/SujayKumarMondal/main/assets/resume-preview.png" alt="Resume Preview" width="750">
+<a href="https://github.com/SujayKumarMondal/SujayKumarMondal/blob/main/Sujay_Kumar_Mondal_09.pdf">
+
+  <img
+    src="https://raw.githubusercontent.com/SujayKumarMondal/SujayKumarMondal/main/assets/resume-preview.png"
+    alt="Resume Preview"
+    width="750"
+  >
+
 </a>
 
 </p>
