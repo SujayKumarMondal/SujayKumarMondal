@@ -1,70 +1,91 @@
 # 👋 Hi, I'm Sujay Kumar Mondal
 
-💻 **System Engineer | Python Backend Developer | FastAPI Enthusiast**
+💻 **System Engineer | Python Backend Developer | FastAPI |**
 
-I specialize in building **scalable backend systems, secure authentication platforms, REST APIs, AI-powered applications, and event-driven architectures** using modern Python technologies.
+I am a **Python Backend Developer with 3+ years of professional experience** building production-grade backend systems, REST APIs, microservices, real-time applications, and workflow-driven platforms.
 
-I enjoy turning backend ideas into **real, production-ready systems** while continuously exploring distributed systems, cloud-native technologies, and AI engineering.
+My professional experience includes working on **portfolio management and trading systems, OTC derivatives, Order Management System (OMS) integrations, reference-data platforms, real-time WebSocket applications, and event-driven backend architectures**.
+
+I primarily work with **Python, FastAPI, PostgreSQL, MySQL, Redis, SQLAlchemy, Pydantic, REST APIs, WebSockets, gRPC, Kafka, JWT, OAuth2, and RBAC**.
+
+I am also actively exploring **AI engineering, LLM-based applications, distributed systems, system design, and cloud-native backend architectures**.
 
 ---
 
-## 📄 Resume & Portfolio
+# 📄 Resume & Portfolio
 
 <p align="center">
 
-<a href="https://github.com/SujayKumarMondal/SujayKumarMondal/raw/main/Resume_2026.pdf">
+<a href="https://github.com/SujayKumarMondal/SujayKumarMondal/raw/main/Sujay_Kumar_Mondal_09.pdf">
     <img src="https://raw.githubusercontent.com/SujayKumarMondal/SujayKumarMondal/main/assets/resume-preview.png" alt="Resume Preview" width="750">
 </a>
 
-## 🚀 Portfolio
-
-🌐 **Portfolio Website**
-
-https://skm10-portfolio.netlify.app/
-
----
-
 </p>
 
+### 🌐 Portfolio
+
+**[skm10-portfolio.netlify.app](https://skm10-portfolio.netlify.app/)**
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🔭 I’m currently working on **AI-powered developer tools, FastAPI backends, and ChatPaat**
+🔭 Currently working on **Python backend systems, AI-powered applications, FastAPI projects, and ChatPaat**
 
-👯 I’m looking to collaborate on **Python, FastAPI, AI, backend engineering, and open-source projects**
+💼 Professional experience in **capital markets, portfolio management, trading operations, and OTC derivatives platforms**
 
-🤝 I’m looking for help with **scalable system design, distributed systems, and advanced AI integrations**
+🧩 Experienced in building **REST APIs, microservices, asynchronous services, real-time WebSocket systems, and event-driven architectures**
 
-🌱 I’m currently learning **System Design, Redis, Kafka, Docker, Kubernetes, and Cloud-Native Architecture**
+🗄️ Working with **PostgreSQL, MySQL, SQLAlchemy, Redis, and relational database systems**
 
-💬 Ask me about **Python, FastAPI, REST APIs, PostgreSQL, Redis, JWT, Docker, and Backend Development**
+🔐 Experienced with **JWT authentication, OAuth2, RBAC, session management, and secure API authorization**
 
-⚡ Fun fact: **I enjoy turning backend ideas into real production-ready projects and experimenting with new technologies at 2 AM.**
+⚡ Interested in **distributed systems, system design, asynchronous programming, Kafka, Redis, gRPC, and microservices**
+
+🤖 Exploring **AI engineering, LLM applications, AI-powered developer tools, and intelligent backend systems**
+
+🤝 Interested in collaborating on **Python, FastAPI, backend engineering, AI, distributed systems, and open-source projects**
+
+⚡ Fun fact: **I enjoy turning backend ideas into real production-ready systems and experimenting with new technologies at 2 AM.**
 
 ---
 
 # 💼 Professional Experience
 
-### 🏢 System Engineer
+## 🏢 System Engineer – Python Backend Developer
 
 **Surelia Infosystems Private Limited**
 
 📅 **Aug 2023 – Present**
 
-* Building and maintaining scalable **Python backend applications**
-* Designing and developing production-ready **REST APIs and microservices**
-* Implementing secure **authentication and authorization systems**
-* Working with **PostgreSQL and MySQL** for backend data management
-* Developing asynchronous and event-driven backend architectures
-* Working with **FastAPI, Redis, Kafka, Docker, SQLAlchemy, and Python**
-* Designing backend systems with focus on **scalability, security, performance, and maintainability**
+### 📈 Portfolio Management & Trading Operations Platform
+
+**Tech Stack:** `Python` `FastAPI` `WebSockets` `Redis` `Pydantic`
+
+* Build and maintain an enterprise trading platform used by **portfolio managers and traders** to monitor real-time positions, place orders, and manage complex derivatives workflows.
+* Develop **FastAPI backend services and REST APIs** integrated with WebSockets and Redis Pub/Sub for real-time portfolio updates, order lifecycle events, and multi-user subscriptions.
+* Implement workflow-driven order processing for **OTC and structured products**, including validation logic and automated booking into external **Order Management Systems (OMS)**.
+* Integrate with OMS and internal services for **security creation, order booking, allocation, and portfolio data synchronization**.
+* Design Pydantic-based data models and APIs for portfolio updates, batch order processing, metadata management, and subscription-based data delivery.
+* Implement **RBAC-based authentication and role-aware access control** for multi-user trading operations.
+* Apply **asynchronous and event-driven backend patterns** with a focus on scalability, security, performance, and maintainability.
+* Introduce **AI-assisted error handling and workflow automation** to improve reliability and reduce manual intervention in trade processing.
+
+### 📊 Quantitative Trading & Reference Data Platform
+
+**Tech Stack:** `Python` `REST APIs` `gRPC` `SQL` `Relational Databases` `FIX Protocol`
+
+* Build and maintain production Python microservices for **OTC derivatives reference data**, including interest rate swaps and swaptions.
+* Extend modular internal frameworks for **config-driven deployment** across development, UAT, and production environments.
+* Integrate instrument lifecycle workflows with external portfolio and trading systems through standardized **REST and gRPC API layers**.
+* Work with relational databases and SQL-based data-access layers for financial instrument and reference-data workflows.
+* Write unit tests and technical documentation to improve reliability of reference-data and instrument-processing pipelines.
 
 ---
 
 # 🔥 Core Expertise
 
-## 🐍 Backend Development
+## 🐍 Backend Engineering
 
 * Python
 * FastAPI
@@ -72,19 +93,24 @@ https://skm10-portfolio.netlify.app/
 * SQLAlchemy
 * Pydantic
 * REST APIs
+* API Architecture
 * Async Programming
 * Microservices
-* API Architecture
+* WebSockets
+* gRPC
 
 ## 🗄️ Databases
 
 * PostgreSQL
 * MySQL
 * SQLite
+* SQL
 * Database Design
+* Schema Design
 * Query Optimization
 * Indexing
 * SQLAlchemy ORM
+* Relational Databases
 
 ## 🔐 Authentication & Security
 
@@ -93,21 +119,38 @@ https://skm10-portfolio.netlify.app/
 * OAuth2
 * Google OAuth
 * GitHub OAuth
-* RBAC
+* Role-Based Access Control (RBAC)
 * Session Management
 * Email Verification
 * Password Reset
+* Protected API Routes
 
 ## ⚡ Messaging & Distributed Systems
 
 * Apache Kafka
 * Redis
+* Redis Pub/Sub
 * Redis Streams
-* gRPC
 * Event-Driven Architecture
 * Asynchronous Processing
-* Distributed Systems
 * Microservices Communication
+* Distributed Systems Concepts
+* gRPC
+
+## 💰 Financial Technology
+
+* Capital Markets
+* Portfolio Management
+* Trading Systems
+* OTC Derivatives
+* Structured Products
+* Interest Rate Swaps
+* Swaptions
+* Order Management Systems (OMS)
+* Reference Data
+* FIX Protocol
+* Order Processing
+* Trade Workflows
 
 ## ☁️ DevOps & Engineering
 
@@ -116,18 +159,22 @@ https://skm10-portfolio.netlify.app/
 * GitHub
 * CI/CD
 * Linux
+* Uvicorn
+* Gunicorn
 * Postman
 * Cloud Deployment
 * API Integration
 
-## 🤖 AI & Developer Tools
+## 🤖 AI & Intelligent Applications
 
 * AI API Integration
-* AI-powered Applications
 * LLM-based Applications
+* AI-powered Applications
 * AI Developer Tools
+* AI-assisted Backend Workflows
 * Repository Analysis
 * Intelligent Backend Systems
+* Asynchronous AI Processing
 
 ---
 
@@ -141,36 +188,42 @@ An AI-powered multi-user chatbot platform built around a modern asynchronous bac
 
 ### Highlights
 
-* Multi-user authentication system
-* Secure JWT-based authentication
-* Chat history management
-* AI model integration
-* Async API architecture
-* PostgreSQL database integration
+* Multi-user authentication and authorization
+* JWT-based authentication
+* Access and refresh token workflow
+* Session-based chat history
+* PostgreSQL database persistence
+* SQLAlchemy ORM
+* Asynchronous FastAPI APIs
+* AI model API integration
 * Redis-based backend capabilities
-* Modern Next.js frontend
+* User-scoped conversation management
+* Modular backend architecture
+* Next.js frontend integration
 
-🌐 **Live:** https://chatpaat.netlify.app/
+🌐 **Live:** [chatpaat.netlify.app](https://chatpaat.netlify.app/)
 
 ---
 
-## 🔐 Authentication & Authorization Platform
+## 🔐 FastAPI MFA / Authentication Platform
 
-**Tech Stack:** `FastAPI` `OAuth2` `JWT` `MySQL` `Python`
+**Tech Stack:** `Python` `FastAPI` `PyOTP` `Passlib` `SQLite` `SQLAlchemy` `Jinja2`
 
-A secure authentication platform implementing modern authentication and authorization patterns.
+A FastAPI-based authentication application implementing **Multi-Factor Authentication (MFA/2FA)** using TOTP.
 
 ### Highlights
 
-* Access & Refresh Token architecture
-* JWT authentication
-* Role-Based Access Control
-* Password reset workflow
-* Email verification
-* Google OAuth integration
-* GitHub OAuth integration
+* User registration
+* Secure password hashing
+* Login authentication
+* TOTP-based MFA
+* QR code generation
+* Authenticator application integration
+* Google Authenticator compatibility
+* Authy compatibility
 * Session management
-* Secure API authorization
+* Protected routes
+* SQLAlchemy database integration
 
 ---
 
@@ -182,14 +235,15 @@ A distributed backend architecture demonstrating event-driven communication and 
 
 ### Highlights
 
-* Distributed microservices architecture
-* Kafka-based event streaming
+* Microservices architecture
+* Event-driven communication
+* Apache Kafka event streaming
 * Redis Streams
 * Asynchronous message processing
-* High-throughput event handling
-* gRPC-based internal communication
+* gRPC internal communication
 * Dockerized services
-* Event-driven architecture
+* High-throughput event processing
+* Service-to-service communication
 
 ---
 
@@ -216,6 +270,7 @@ A distributed backend architecture demonstrating event-driven communication and 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
@@ -306,6 +361,8 @@ System Design
       ↓
 Distributed Systems
       ↓
+Asynchronous Backend Engineering
+      ↓
 Kafka + Redis
       ↓
 Microservices
@@ -315,6 +372,10 @@ Docker + Kubernetes
 Cloud-Native Architecture
       ↓
 AI Engineering
+      ↓
+LLM-Based Applications
+      ↓
+AI Developer Tools
 ```
 
 ---
@@ -350,4 +411,3 @@ AI Engineering
 ⭐ **If you find my projects interesting, consider giving them a star!**
 
 </p>
-
